@@ -16,7 +16,11 @@ Here's what I learned, thus far...
   The more simple you can keep your CSS, the better it is; and remember to Control Flow.**
 
 ***Week 3***
+<<<<<<< HEAD
 *Code 201: Day 1 (DAY 11)*
+=======
+Code 201: Day 1 (DAY 11)
+>>>>>>> 6cd063d3e1b12150e70b641072d6c44a8bd1691e
   **Think about project**
 - Learn to manage your stress; especially in projects with team members.
 - it's vey easy to look at someone else code, and see what is broke; but it's very difficult to see what's wrong with your code: because we, as developers, see what we want to get out of our code vs. what the user sees and experience: WE WANT TO PUT OURSELVES, AS MUCH AS POSSIBLE, IN THE USERS'S SHOES.
@@ -111,6 +115,7 @@ Here's what I learned, thus far...
     8. To do this, you'll want a constructor function that creates an object associated with each image, and has (at a minimum) properties for the name of the image (to be used for display purposes), its file path, the number of times it has been shown, and the number of times it has been clicked. You'll probably find it useful to create a property that contains a text string you can use as an ID in HTML.
     9. After 25 selections have been made, turn off the event listeners on the images (to prevent additional voting) and also display a list of the products with votes received with each list item looking like "3 votes for the Banana Slicer".
   **10. Remember to submit a link to your most recent PR following the instructions in Canvas.**
+<<<<<<< HEAD
 
   *Code 201: Day 1 (DAY 12)*
   Based on peer code review, I also needed:
@@ -171,3 +176,5 @@ Here's what I learned, thus far...
   +1 253 279 7213
 
   ***Ultimately, you're going to get hired by what you do; and not what you say; or what certifications you had***
+=======
+>>>>>>> 6cd063d3e1b12150e70b641072d6c44a8bd1691e
